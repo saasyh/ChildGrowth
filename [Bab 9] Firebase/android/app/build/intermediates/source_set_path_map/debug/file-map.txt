@@ -1,0 +1,56 @@
+com.read.app-lifecycle-viewmodel-2.5.0-0 C:\Users\Mita\.gradle\caches\transforms-3\091e971a9e8a98f6653083bfaca975f8\transformed\lifecycle-viewmodel-2.5.0\res
+com.read.app-jetified-react-android-0.72.6-debug-1 C:\Users\Mita\.gradle\caches\transforms-3\14b8c9508dcff6eb169f51147048a638\transformed\jetified-react-android-0.72.6-debug\res
+com.read.app-jetified-tracing-1.1.0-2 C:\Users\Mita\.gradle\caches\transforms-3\1801aafe71de298de1a669bb96d340c2\transformed\jetified-tracing-1.1.0\res
+com.read.app-lifecycle-runtime-2.5.0-3 C:\Users\Mita\.gradle\caches\transforms-3\25773f5d785cbb6e406ba7500581a3d6\transformed\lifecycle-runtime-2.5.0\res
+com.read.app-jetified-core-ktx-1.8.0-4 C:\Users\Mita\.gradle\caches\transforms-3\28484ba5ac0440e5409a8c315f65a57d\transformed\jetified-core-ktx-1.8.0\res
+com.read.app-jetified-lifecycle-process-2.4.1-5 C:\Users\Mita\.gradle\caches\transforms-3\2c61d259e1a45bc24b41988564f0f425\transformed\jetified-lifecycle-process-2.4.1\res
+com.read.app-jetified-lifecycle-viewmodel-savedstate-2.5.0-6 C:\Users\Mita\.gradle\caches\transforms-3\37b91c72d3b55fa4f8966a0dfadd8c7b\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.0\res
+com.read.app-jetified-autofill-1.1.0-7 C:\Users\Mita\.gradle\caches\transforms-3\4a9365a10b03e2934f1a6e8d65d1840c\transformed\jetified-autofill-1.1.0\res
+com.read.app-jetified-drawee-2.6.0-8 C:\Users\Mita\.gradle\caches\transforms-3\52b11c6a206ecc32161b6e3fbc3fec23\transformed\jetified-drawee-2.6.0\res
+com.read.app-transition-1.2.0-9 C:\Users\Mita\.gradle\caches\transforms-3\55f8095739101b19084c3874ebf27d48\transformed\transition-1.2.0\res
+com.read.app-coordinatorlayout-1.2.0-10 C:\Users\Mita\.gradle\caches\transforms-3\5b12b0a9af5ac5f8c02f25251df8f3a1\transformed\coordinatorlayout-1.2.0\res
+com.read.app-appcompat-1.5.0-11 C:\Users\Mita\.gradle\caches\transforms-3\61371c2a47d9a3b6b5c41820ab3fee47\transformed\appcompat-1.5.0\res
+com.read.app-jetified-play-services-auth-20.7.0-12 C:\Users\Mita\.gradle\caches\transforms-3\64831e4a609223467fbe3ce127c12d58\transformed\jetified-play-services-auth-20.7.0\res
+com.read.app-jetified-firebase-common-20.4.2-13 C:\Users\Mita\.gradle\caches\transforms-3\6aaffa8c04f1cebd6adbd7e41cca95e5\transformed\jetified-firebase-common-20.4.2\res
+com.read.app-fragment-1.3.6-14 C:\Users\Mita\.gradle\caches\transforms-3\6ee99e4f0a059ce074f4b069af127bc8\transformed\fragment-1.3.6\res
+com.read.app-cardview-1.0.0-15 C:\Users\Mita\.gradle\caches\transforms-3\7d3531a002cf30346bff1926ff123be8\transformed\cardview-1.0.0\res
+com.read.app-material-1.9.0-16 C:\Users\Mita\.gradle\caches\transforms-3\7deb3acd9d11baed697e70f9945f8c3f\transformed\material-1.9.0\res
+com.read.app-jetified-flipper-0.182.0-17 C:\Users\Mita\.gradle\caches\transforms-3\7e6a212c9c6486dd9b3b7c99c42783e2\transformed\jetified-flipper-0.182.0\res
+com.read.app-jetified-appcompat-resources-1.5.0-18 C:\Users\Mita\.gradle\caches\transforms-3\81ba478c007e8f06bcf970dbd56200ea\transformed\jetified-appcompat-resources-1.5.0\res
+com.read.app-jetified-ucrop-2.2.6-native-19 C:\Users\Mita\.gradle\caches\transforms-3\822d82d4e57663b22f2a140f84a032c5\transformed\jetified-ucrop-2.2.6-native\res
+com.read.app-jetified-viewpager2-1.0.0-20 C:\Users\Mita\.gradle\caches\transforms-3\8257f535788e9bba26870a0a1eca3830\transformed\jetified-viewpager2-1.0.0\res
+com.read.app-jetified-emoji2-1.2.0-21 C:\Users\Mita\.gradle\caches\transforms-3\901cb10be8de5b739e43b517ceb28948\transformed\jetified-emoji2-1.2.0\res
+com.read.app-jetified-activity-1.5.0-22 C:\Users\Mita\.gradle\caches\transforms-3\94d8b2ea132f1fd18f77ac56d1c1f971\transformed\jetified-activity-1.5.0\res
+com.read.app-constraintlayout-2.0.1-23 C:\Users\Mita\.gradle\caches\transforms-3\9a4cf180cd6b69c7f0be99a62c195db7\transformed\constraintlayout-2.0.1\res
+com.read.app-sqlite-framework-2.2.0-24 C:\Users\Mita\.gradle\caches\transforms-3\9b09cc865344ca06b6fef186c3b48385\transformed\sqlite-framework-2.2.0\res
+com.read.app-core-1.8.0-25 C:\Users\Mita\.gradle\caches\transforms-3\9d7110ce127f87ba3cc59166afcbb5e8\transformed\core-1.8.0\res
+com.read.app-jetified-emoji2-views-helper-1.2.0-26 C:\Users\Mita\.gradle\caches\transforms-3\a1048d19d60a1ab1baa31e6d8ca2b92f\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.read.app-jetified-annotation-experimental-1.1.0-27 C:\Users\Mita\.gradle\caches\transforms-3\a2ab2dcd4112531305aab9cfefce2328\transformed\jetified-annotation-experimental-1.1.0\res
+com.read.app-jetified-play-services-basement-18.2.0-28 C:\Users\Mita\.gradle\caches\transforms-3\b4b2e8e1d6805e5a764fdb08c877eb04\transformed\jetified-play-services-basement-18.2.0\res
+com.read.app-sqlite-2.2.0-29 C:\Users\Mita\.gradle\caches\transforms-3\b53b64db170e15879bf17e1e06b43051\transformed\sqlite-2.2.0\res
+com.read.app-drawerlayout-1.1.1-30 C:\Users\Mita\.gradle\caches\transforms-3\bcc2de5edbecad3aef06c6f68340a5d1\transformed\drawerlayout-1.1.1\res
+com.read.app-jetified-startup-runtime-1.1.1-31 C:\Users\Mita\.gradle\caches\transforms-3\bec06f49b17ae357da648dce377c7a5f\transformed\jetified-startup-runtime-1.1.1\res
+com.read.app-jetified-play-services-base-18.0.1-32 C:\Users\Mita\.gradle\caches\transforms-3\cae6af126893c0c29fe68ce907e458a4\transformed\jetified-play-services-base-18.0.1\res
+com.read.app-swiperefreshlayout-1.1.0-33 C:\Users\Mita\.gradle\caches\transforms-3\cb8c858efc814663d8a8521630b4a71b\transformed\swiperefreshlayout-1.1.0\res
+com.read.app-recyclerview-1.1.0-34 C:\Users\Mita\.gradle\caches\transforms-3\d8484ac91ace8ccec7bd9f599ad4edc8\transformed\recyclerview-1.1.0\res
+com.read.app-lifecycle-livedata-core-2.5.0-35 C:\Users\Mita\.gradle\caches\transforms-3\df73bce57b97b9bc9ee045ecce48c515\transformed\lifecycle-livedata-core-2.5.0\res
+com.read.app-jetified-glide-4.12.0-36 C:\Users\Mita\.gradle\caches\transforms-3\f17dbc7822538a159e7c83ea20eee63b\transformed\jetified-glide-4.12.0\res
+com.read.app-jetified-savedstate-1.2.0-37 C:\Users\Mita\.gradle\caches\transforms-3\fe78fbe8ccdd04fd0572279322bc62ca\transformed\jetified-savedstate-1.2.0\res
+com.read.app-res-38 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\build\generated\res\processDebugGoogleServices
+com.read.app-resValues-39 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\build\generated\res\resValues\debug
+com.read.app-rs-40 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\build\generated\res\rs\debug
+com.read.app-mergeDebugResources-41 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.read.app-mergeDebugResources-42 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.read.app-merged_res-43 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\build\intermediates\merged_res\debug
+com.read.app-debug-44 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\debug\res
+com.read.app-main-45 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\res
+com.read.app-packaged_res-46 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\packaged_res\debug
+com.read.app-packaged_res-47 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\firestore\android\build\intermediates\packaged_res\debug
+com.read.app-packaged_res-48 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\storage\android\build\intermediates\packaged_res\debug
+com.read.app-packaged_res-49 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@shopify\flash-list\android\build\intermediates\packaged_res\debug
+com.read.app-packaged_res-50 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-fast-image\android\build\intermediates\packaged_res\debug
+com.read.app-packaged_res-51 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
+com.read.app-packaged_res-52 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\packaged_res\debug
+com.read.app-packaged_res-53 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+com.read.app-packaged_res-54 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.read.app-packaged_res-55 C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-svg\android\build\intermediates\packaged_res\debug

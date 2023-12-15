@@ -1,0 +1,290 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.read"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="27" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:3:5-67
+12-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:3:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.182.0] C:\Users\Mita\.gradle\caches\transforms-3\7e6a212c9c6486dd9b3b7c99c42783e2\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.182.0] C:\Users\Mita\.gradle\caches\transforms-3\7e6a212c9c6486dd9b3b7c99c42783e2\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->[:react-native-firebase_storage] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+14-->[:react-native-firebase_storage] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-65
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[:react-native-firebase_storage] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+15-->[:react-native-firebase_storage] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+16
+17    <queries>
+17-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:15
+18        <intent>
+18-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:18
+19            <action android:name="android.media.action.IMAGE_CAPTURE" />
+19-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-73
+19-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-70
+20        </intent>
+21    </queries>
+22
+23    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+23-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-81
+23-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-78
+24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+25
+26    <application
+26-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:5:5-24:19
+27        android:name="com.read.MainApplication"
+27-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:6:7-38
+28        android:allowBackup="false"
+28-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:10:7-34
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.8.0] C:\Users\Mita\.gradle\caches\transforms-3\9d7110ce127f87ba3cc59166afcbb5e8\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+30        android:debuggable="true"
+31        android:icon="@mipmap/ic_launcher"
+31-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:8:7-41
+32        android:label="@string/app_name"
+32-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:7:7-39
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:9:7-52
+34        android:theme="@style/AppTheme"
+34-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:11:7-38
+35        android:usesCleartextTraffic="true" >
+35-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\debug\AndroidManifest.xml:8:9-44
+36        <activity
+36-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\debug\AndroidManifest.xml:11:9-111
+37            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+37-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\debug\AndroidManifest.xml:11:19-83
+38            android:exported="false" />
+38-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\debug\AndroidManifest.xml:11:84-108
+39        <activity
+39-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:12:7-23:18
+40            android:name="com.read.MainActivity"
+40-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:13:9-37
+41            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+41-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:15:9-118
+42            android:exported="true"
+42-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:18:9-32
+43            android:label="@string/app_name"
+43-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:14:9-41
+44            android:launchMode="singleTask"
+44-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:16:9-40
+45            android:windowSoftInputMode="adjustResize" >
+45-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:17:9-51
+46            <intent-filter>
+46-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:19:9-22:25
+47                <action android:name="android.intent.action.MAIN" />
+47-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:20:13-65
+47-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:20:21-62
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:21:13-73
+49-->C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\android\app\src\main\AndroidManifest.xml:21:23-70
+50            </intent-filter>
+51        </activity>
+52
+53        <meta-data
+53-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-11:36
+54            android:name="app_data_collection_default_enabled"
+54-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-63
+55            android:value="true" />
+55-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-33
+56
+57        <service
+57-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-21:19
+58            android:name="com.google.firebase.components.ComponentDiscoveryService"
+58-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-84
+59            android:directBootAware="true"
+59-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-43
+60            android:exported="false" >
+60-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+61            <meta-data
+61-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:85
+62                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
+62-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-120
+63                android:value="com.google.firebase.components.ComponentRegistrar" />
+63-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-82
+64            <meta-data
+64-->[com.google.firebase:firebase-firestore:24.9.1] C:\Users\Mita\.gradle\caches\transforms-3\efd81d6e473b46b3e90cf2f614b27b25\transformed\jetified-firebase-firestore-24.9.1\AndroidManifest.xml:17:13-19:85
+65                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+65-->[com.google.firebase:firebase-firestore:24.9.1] C:\Users\Mita\.gradle\caches\transforms-3\efd81d6e473b46b3e90cf2f614b27b25\transformed\jetified-firebase-firestore-24.9.1\AndroidManifest.xml:18:17-122
+66                android:value="com.google.firebase.components.ComponentRegistrar" />
+66-->[com.google.firebase:firebase-firestore:24.9.1] C:\Users\Mita\.gradle\caches\transforms-3\efd81d6e473b46b3e90cf2f614b27b25\transformed\jetified-firebase-firestore-24.9.1\AndroidManifest.xml:19:17-82
+67            <meta-data
+67-->[com.google.firebase:firebase-firestore:24.9.1] C:\Users\Mita\.gradle\caches\transforms-3\efd81d6e473b46b3e90cf2f614b27b25\transformed\jetified-firebase-firestore-24.9.1\AndroidManifest.xml:20:13-22:85
+68                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+68-->[com.google.firebase:firebase-firestore:24.9.1] C:\Users\Mita\.gradle\caches\transforms-3\efd81d6e473b46b3e90cf2f614b27b25\transformed\jetified-firebase-firestore-24.9.1\AndroidManifest.xml:21:17-111
+69                android:value="com.google.firebase.components.ComponentRegistrar" />
+69-->[com.google.firebase:firebase-firestore:24.9.1] C:\Users\Mita\.gradle\caches\transforms-3\efd81d6e473b46b3e90cf2f614b27b25\transformed\jetified-firebase-firestore-24.9.1\AndroidManifest.xml:22:17-82
+70            <meta-data
+70-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\Mita\.gradle\caches\transforms-3\08de8bd2419d0b4c5d73655389e7e2ab\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:30:13-32:85
+71                android:name="com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar"
+71-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\Mita\.gradle\caches\transforms-3\08de8bd2419d0b4c5d73655389e7e2ab\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:31:17-118
+72                android:value="com.google.firebase.components.ComponentRegistrar" />
+72-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\Mita\.gradle\caches\transforms-3\08de8bd2419d0b4c5d73655389e7e2ab\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:32:17-82
+73            <meta-data
+73-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\Mita\.gradle\caches\transforms-3\08de8bd2419d0b4c5d73655389e7e2ab\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:33:13-35:85
+74                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+74-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\Mita\.gradle\caches\transforms-3\08de8bd2419d0b4c5d73655389e7e2ab\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:34:17-107
+75                android:value="com.google.firebase.components.ComponentRegistrar" />
+75-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\Mita\.gradle\caches\transforms-3\08de8bd2419d0b4c5d73655389e7e2ab\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:35:17-82
+76            <meta-data
+76-->[com.google.firebase:firebase-appcheck:17.1.1] C:\Users\Mita\.gradle\caches\transforms-3\a9f36fafcefa63fe364184389f0f03f0\transformed\jetified-firebase-appcheck-17.1.1\AndroidManifest.xml:25:13-27:85
+77                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar"
+77-->[com.google.firebase:firebase-appcheck:17.1.1] C:\Users\Mita\.gradle\caches\transforms-3\a9f36fafcefa63fe364184389f0f03f0\transformed\jetified-firebase-appcheck-17.1.1\AndroidManifest.xml:26:17-120
+78                android:value="com.google.firebase.components.ComponentRegistrar" />
+78-->[com.google.firebase:firebase-appcheck:17.1.1] C:\Users\Mita\.gradle\caches\transforms-3\a9f36fafcefa63fe364184389f0f03f0\transformed\jetified-firebase-appcheck-17.1.1\AndroidManifest.xml:27:17-82
+79            <meta-data
+79-->[com.google.firebase:firebase-appcheck:17.1.1] C:\Users\Mita\.gradle\caches\transforms-3\a9f36fafcefa63fe364184389f0f03f0\transformed\jetified-firebase-appcheck-17.1.1\AndroidManifest.xml:28:13-30:85
+80                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
+80-->[com.google.firebase:firebase-appcheck:17.1.1] C:\Users\Mita\.gradle\caches\transforms-3\a9f36fafcefa63fe364184389f0f03f0\transformed\jetified-firebase-appcheck-17.1.1\AndroidManifest.xml:29:17-117
+81                android:value="com.google.firebase.components.ComponentRegistrar" />
+81-->[com.google.firebase:firebase-appcheck:17.1.1] C:\Users\Mita\.gradle\caches\transforms-3\a9f36fafcefa63fe364184389f0f03f0\transformed\jetified-firebase-appcheck-17.1.1\AndroidManifest.xml:30:17-82
+82            <meta-data
+82-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Mita\.gradle\caches\transforms-3\6e36a31f31906b06615716f591a6fd3a\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+83                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+83-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Mita\.gradle\caches\transforms-3\6e36a31f31906b06615716f591a6fd3a\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+84                android:value="com.google.firebase.components.ComponentRegistrar" />
+84-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Mita\.gradle\caches\transforms-3\6e36a31f31906b06615716f591a6fd3a\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+85            <meta-data
+85-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mita\.gradle\caches\transforms-3\6aaffa8c04f1cebd6adbd7e41cca95e5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+86                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+86-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mita\.gradle\caches\transforms-3\6aaffa8c04f1cebd6adbd7e41cca95e5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+87                android:value="com.google.firebase.components.ComponentRegistrar" />
+87-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mita\.gradle\caches\transforms-3\6aaffa8c04f1cebd6adbd7e41cca95e5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+88        </service>
+89
+90        <provider
+90-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-27:38
+91            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
+91-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-88
+92            android:authorities="com.read.reactnativefirebaseappinitprovider"
+92-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-86
+93            android:exported="false"
+93-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
+94            android:initOrder="99" />
+94-->[:react-native-firebase_app] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
+95        <provider
+95-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-24:20
+96            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
+96-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-94
+97            android:authorities="com.read.provider"
+97-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-60
+98            android:exported="false"
+98-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
+99            android:grantUriPermissions="true" >
+99-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-47
+100            <meta-data
+100-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-23:78
+101                android:name="android.support.FILE_PROVIDER_PATHS"
+101-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-67
+102                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
+102-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:17-75
+103        </provider>
+104
+105        <activity
+105-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-28:72
+106            android:name="com.yalantis.ucrop.UCropActivity"
+106-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-60
+107            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+107-->[:react-native-image-crop-picker] C:\Users\Mita\Documents\Bab9 ChildGrowth\ChildGrowth\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-69
+108
+109        <meta-data
+109-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Mita\.gradle\caches\transforms-3\0319ce422c1c71628517b5b72f99ba6a\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:11:9-13:43
+110            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+110-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Mita\.gradle\caches\transforms-3\0319ce422c1c71628517b5b72f99ba6a\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:12:13-84
+111            android:value="GlideModule" />
+111-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Mita\.gradle\caches\transforms-3\0319ce422c1c71628517b5b72f99ba6a\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:13:13-40
+112
+113        <provider
+113-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mita\.gradle\caches\transforms-3\6aaffa8c04f1cebd6adbd7e41cca95e5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+114            android:name="com.google.firebase.provider.FirebaseInitProvider"
+114-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mita\.gradle\caches\transforms-3\6aaffa8c04f1cebd6adbd7e41cca95e5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+115            android:authorities="com.read.firebaseinitprovider"
+115-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mita\.gradle\caches\transforms-3\6aaffa8c04f1cebd6adbd7e41cca95e5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+116            android:directBootAware="true"
+116-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mita\.gradle\caches\transforms-3\6aaffa8c04f1cebd6adbd7e41cca95e5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+117            android:exported="false"
+117-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mita\.gradle\caches\transforms-3\6aaffa8c04f1cebd6adbd7e41cca95e5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+118            android:initOrder="100" />
+118-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mita\.gradle\caches\transforms-3\6aaffa8c04f1cebd6adbd7e41cca95e5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+119
+120        <activity
+120-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Mita\.gradle\caches\transforms-3\64831e4a609223467fbe3ce127c12d58\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+121            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+121-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Mita\.gradle\caches\transforms-3\64831e4a609223467fbe3ce127c12d58\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+122            android:excludeFromRecents="true"
+122-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Mita\.gradle\caches\transforms-3\64831e4a609223467fbe3ce127c12d58\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+123            android:exported="false"
+123-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Mita\.gradle\caches\transforms-3\64831e4a609223467fbe3ce127c12d58\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+124            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+124-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Mita\.gradle\caches\transforms-3\64831e4a609223467fbe3ce127c12d58\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+125        <!--
+126            Service handling Google Sign-In user revocation. For apps that do not integrate with
+127            Google Sign-In, this service will never be started.
+128        -->
+129        <service
+129-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Mita\.gradle\caches\transforms-3\64831e4a609223467fbe3ce127c12d58\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+130            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+130-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Mita\.gradle\caches\transforms-3\64831e4a609223467fbe3ce127c12d58\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+131            android:exported="true"
+131-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Mita\.gradle\caches\transforms-3\64831e4a609223467fbe3ce127c12d58\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+132            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+132-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Mita\.gradle\caches\transforms-3\64831e4a609223467fbe3ce127c12d58\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+133            android:visibleToInstantApps="true" />
+133-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Mita\.gradle\caches\transforms-3\64831e4a609223467fbe3ce127c12d58\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+134
+135        <activity
+135-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Mita\.gradle\caches\transforms-3\cae6af126893c0c29fe68ce907e458a4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+136            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+136-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Mita\.gradle\caches\transforms-3\cae6af126893c0c29fe68ce907e458a4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+137            android:exported="false"
+137-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Mita\.gradle\caches\transforms-3\cae6af126893c0c29fe68ce907e458a4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+138            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+138-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Mita\.gradle\caches\transforms-3\cae6af126893c0c29fe68ce907e458a4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+139
+140        <meta-data
+140-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\Mita\.gradle\caches\transforms-3\b4b2e8e1d6805e5a764fdb08c877eb04\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+141            android:name="com.google.android.gms.version"
+141-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\Mita\.gradle\caches\transforms-3\b4b2e8e1d6805e5a764fdb08c877eb04\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+142            android:value="@integer/google_play_services_version" />
+142-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\Mita\.gradle\caches\transforms-3\b4b2e8e1d6805e5a764fdb08c877eb04\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+143
+144        <provider
+144-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mita\.gradle\caches\transforms-3\901cb10be8de5b739e43b517ceb28948\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+145            android:name="androidx.startup.InitializationProvider"
+145-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mita\.gradle\caches\transforms-3\901cb10be8de5b739e43b517ceb28948\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+146            android:authorities="com.read.androidx-startup"
+146-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mita\.gradle\caches\transforms-3\901cb10be8de5b739e43b517ceb28948\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+147            android:exported="false" >
+147-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mita\.gradle\caches\transforms-3\901cb10be8de5b739e43b517ceb28948\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+148            <meta-data
+148-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mita\.gradle\caches\transforms-3\901cb10be8de5b739e43b517ceb28948\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+149                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+149-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mita\.gradle\caches\transforms-3\901cb10be8de5b739e43b517ceb28948\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+150                android:value="androidx.startup" />
+150-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mita\.gradle\caches\transforms-3\901cb10be8de5b739e43b517ceb28948\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+151            <meta-data
+151-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mita\.gradle\caches\transforms-3\2c61d259e1a45bc24b41988564f0f425\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+152                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+152-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mita\.gradle\caches\transforms-3\2c61d259e1a45bc24b41988564f0f425\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+153                android:value="androidx.startup" />
+153-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mita\.gradle\caches\transforms-3\2c61d259e1a45bc24b41988564f0f425\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+154        </provider>
+155
+156        <meta-data
+156-->[com.facebook.soloader:soloader:0.10.5] C:\Users\Mita\.gradle\caches\transforms-3\b505f6e6a25f977bb41e5d78ff1f021f\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:12:9-14:37
+157            android:name="com.facebook.soloader.enabled"
+157-->[com.facebook.soloader:soloader:0.10.5] C:\Users\Mita\.gradle\caches\transforms-3\b505f6e6a25f977bb41e5d78ff1f021f\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:13:13-57
+158            android:value="false" />
+158-->[com.facebook.soloader:soloader:0.10.5] C:\Users\Mita\.gradle\caches\transforms-3\b505f6e6a25f977bb41e5d78ff1f021f\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:14:13-34
+159    </application>
+160
+161</manifest>
